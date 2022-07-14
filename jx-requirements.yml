@@ -20,7 +20,7 @@ spec:
   - key: staging
   - key: production
   ingress:
-    domain: "jenkins.84-201-166-116.sslip.io"
+    domain: "jenkins.51.250.23.121.sslip.io"
     externalDNS: false
     namespaceSubDomain: -jx.
     tls:
